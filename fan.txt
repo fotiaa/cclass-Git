@@ -1,1 +1,2 @@
 this is a fan
+Adding a line in fan.txt file which is not in feature6 branch
